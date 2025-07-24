@@ -4,6 +4,8 @@ This project performs a basic stock price analysis on Apple Inc. (AAPL) using hi
 
 📂 Project Structure:
 Stock Price Analysis/
+
+
 │
 ├── AAPL.csv                    
 ├── stock_analysis.py           

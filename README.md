@@ -10,7 +10,8 @@ Stock Price Analysis/
 ├── AAPL.csv                    
 ├── stock_analysis.py           
 ├── README.md                 
-└── Output Charts/             
+└── Output Charts/   
+
 🛠️ Tools & Libraries Used
 Python 
 

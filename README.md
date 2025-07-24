@@ -20,7 +20,9 @@ numpy
 
 matplotlib
 
+
  -Features Implemented
+ 
  Read historical stock data from CSV
 
  Convert Date column to datetime
@@ -38,13 +40,14 @@ Stock Price with 10-day Moving Average
 Daily Returns over time
 
 -Sample Input (AAPL.csv)
-csv
-Copy
-Edit
 Date,Open,High,Low,Close,Volume
+
 2023-07-01,180.0,182.5,179.0,181.0,50000000
+
 2023-07-02,181.0,183.0,180.0,182.5,48000000
+
 2023-07-03,182.5,184.0,181.5,183.0,47000000
+
 📤 Output Charts
 - Closing Price with Moving Average
 

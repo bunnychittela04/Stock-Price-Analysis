@@ -1,4 +1,5 @@
 📈 Stock Price Analysis using Python
+
 This project performs a basic stock price analysis on Apple Inc. (AAPL) using historical data. It includes calculating moving averages and daily returns, and visualizing trends using Python libraries like pandas, numpy, and matplotlib.
 
 📂 Project Structure:
